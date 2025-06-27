@@ -23,4 +23,4 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 
 - 2025/06/26 Project start
 - 2025/06/27 
-  - Add scaled dot-product attention
+  - Add [scaled dot-product attention](./llm_algo_components/attention/scaled_dot_product_attention/)
