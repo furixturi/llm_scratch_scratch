@@ -7,6 +7,9 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 ## Contents
 
 ### [LLM algo components](./llm_algo_components/)
+- Attention
+  - [scaled dot-product attention](./llm_algo_components/attention/scaled_dot_product_attention/)
+  - [multi-head attention](./llm_algo_components/attention/MHA/)
 
 ### Models From Scratch
 
@@ -24,3 +27,4 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 - 2025/06/26 Project start
 - 2025/06/27 
   - Add [scaled dot-product attention](./llm_algo_components/attention/scaled_dot_product_attention/)
+  - Add [multi-head attention](./llm_algo_components/attention/MHA/)
