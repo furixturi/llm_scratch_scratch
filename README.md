@@ -6,9 +6,9 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 
 ## Contents
 
-### LLM algo components
+### [LLM algo components](./llm_algo_components/)
 
-### Models
+### Models From Scratch
 
 ### Training / Fine-tuning 
 
@@ -21,4 +21,6 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 
 ## History
 
-- 2025/06/26 Project start: 
+- 2025/06/26 Project start
+- 2025/06/27 
+  - Add scaled dot-product attention
