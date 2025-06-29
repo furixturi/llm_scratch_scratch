@@ -20,7 +20,13 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 
 ## Acknowledgments
 
+### Book
 - [Sebastian Raschka](https://sebastianraschka.com/) 's amazing book [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
+### Papers
+- Transformer paper [Attention Is All You Need (arxiv.org/abs/1706.03762)](https://arxiv.org/abs/1706.03762)
+- MQA paper [Fast Transformer Decoding: One Write-Head is All You Need (arxiv.org/abs/1911.02150)](https://arxiv.org/abs/1911.02150)
+- GQA paper [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints (arxiv.org/abs/2305.13245)](https://arxiv.org/abs/2305.13245)
 
 ## History
 
