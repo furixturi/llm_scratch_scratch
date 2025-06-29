@@ -28,6 +28,9 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 - MQA paper [Fast Transformer Decoding: One Write-Head is All You Need (arxiv.org/abs/1911.02150)](https://arxiv.org/abs/1911.02150)
 - GQA paper [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints (arxiv.org/abs/2305.13245)](https://arxiv.org/abs/2305.13245)
 
+### Code
+- [Frank Odom](http://fkodom.substack.com/)'s [GQA PyTorch implementation](https://github.com/fkodom/grouped-query-attention-pytorch/tree/main)
+
 ## History
 
 - 2025/06/26 Project start
