@@ -8,9 +8,13 @@ Variants of Attention mechanisms, from the simplest to advanced used in popular 
 - [Grouped-Query Attention](./attention/GQA/)
 - [Multi-Head Latent Attention](./attention/MLA/)
 
-## Tokenizer
-
 ## Position Encoding
 
 ## Normlization
+
+## FFN Activations
+
+## MoE
+
+## Tokenizer
 

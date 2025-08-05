@@ -50,3 +50,5 @@ This is a scratchpad project that implements different LLM parts from scratch, a
   - Add attention and MHA variants explanation in [attention readme](./llm_algo_components/attention/README.md)
 - 2025/07/24 
   - Add [multi-head latent attention (MLA)](./llm_algo_components/attention/MLA/)
+- 2025/08/05
+  - Update MLA implementation to follow DeepSeek-v2 official formula
