@@ -17,3 +17,4 @@ The attention mechanism, multi-head attention and its variants' implemenations i
   - Share K and V in groups of Qs heads. Strike a balance between MHA and MQA. 
 - [Multi-head Latent Attention (MLA)](./MLA/MLA.ipynb)
   - Drastically reduce KV cache memory footprint at inference by down-projecting K, V matrices to a smaller latent matrix.
+- [Sliding Window Attention (SWA)](./SWA/SWA.ipynb)
