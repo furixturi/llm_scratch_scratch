@@ -22,14 +22,18 @@ This is a scratchpad project that implements different LLM parts from scratch, a
   - Linear Attention/Gated Attention (https://github.com/fla-org/flash-linear-attention)
   - Sparse Attention
   - Lightning Attention (MiniMax-01 https://arxiv.org/pdf/2501.08313)
-- Positional Encoding & Context extention
+- [Positional Encoding](./llm_algo_components/pos_encoding/README.md) 
+  - [RoPE](./llm_algo_components/pos_encoding/RoPE/RoPE.ipynb)
+  - [Learned Absolute Positional Encoding](./llm_algo_components/pos_encoding/LearnedAbsolutePosEncoding/LearnedAbsolutePosEncoding.ipynb)
+  - [Relative Positional Encoding](./llm_algo_components/pos_encoding/RelativePosEncoding/RelativePosEncoding.ipynb)
+-  Context extention 
   - [Context extention overview](./llm_algo_components/context_extension/context_extension.ipynb)
   - [RoPE and YaRN](./llm_algo_components/context_extension/YaRN.ipynb)
 - Activation
   - Overview and historical methods (ReLU, GeLU)
   - SwiGLU
-- Normalization
-  - RMSNorm
+- [Normalization](./llm_algo_components/norm/README.md)
+  - [RMSNorm](./llm_algo_components/norm/RMSNorm.ipynb)
 - Embedding
 - Tokenizer
 
