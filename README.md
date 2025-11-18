@@ -35,11 +35,28 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 - [Normalization](./llm_algo_components/norm/README.md)
   - [RMSNorm](./llm_algo_components/norm/RMSNorm.ipynb)
 - Embedding
-- Tokenizer
+- Tokenizer 
+  - BPE
+  - (references)
+    - [Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
+    - [Hugging Face](https://github.com/huggingface/evaluation-guidebook/blob/main/contents/general-knowledge/tokenization.md)
+    - [Getting the most out of your tokenizer for pre-training and domain adaptation](https://arxiv.org/abs/2402.01035)
+
 
 ### Models From Scratch
 
 ### Training / Fine-tuning 
+- Hyperparameters
+  - batch size
+  - learning rate
+- Reinforcement Learning
+  - PPO
+  - DPO
+  - GRPO
+  - DAPO
+  - GSPO
+  - ORPO
+  - KTO
 
 ### Optimization / Distributed
 
@@ -60,6 +77,7 @@ This is a scratchpad project that implements different LLM parts from scratch, a
 - [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/)'s [Beyond Standard LLMs](https://magazine.sebastianraschka.com/p/beyond-standard-llms)
 - Hugging Face's [The Smol Training Playbook:
 The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 ### Code
 - [Frank Odom](http://fkodom.substack.com/)'s [GQA PyTorch implementation](https://github.com/fkodom/grouped-query-attention-pytorch/tree/main)
